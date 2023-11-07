@@ -41,3 +41,4 @@ The project is open to further development, potentially incorporating more sophi
 Acknowledgment to the Keras library for providing the CNN model used in this project.
 
 #### Output 
+<img src="12.png" />
