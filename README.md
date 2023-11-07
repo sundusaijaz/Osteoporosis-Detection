@@ -42,3 +42,5 @@ Acknowledgment to the Keras library for providing the CNN model used in this pro
 
 #### Output 
 <img src="12.png" />
+
+<img src="Screenshot from 2023-11-08 00-24-50.png" />
